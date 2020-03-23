@@ -6,5 +6,5 @@ from django.http import HttpResponse
 
 def index(request):
     return HttpResponse("Hello, world from Jacob \n"
-                        "Jade here \n"
-                        "Imisi here \n")
+                        # "Jade here \n"
+                        # "Imisi here \n")
